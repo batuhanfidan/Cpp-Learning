@@ -1,0 +1,3 @@
+# Ignore all indermediates and binary files
+*.exe
+*.obj
